@@ -1,6 +1,6 @@
 The MET - an HTML and CSS based landing page, fit for a company/service with a one page view.
 [Check the live demo here](https://github.com/KseniaSkr/THE_MET)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+
 Features:
  - Responsive Landing Page Using HTML, CSS & JavaScript, Scss and BEM methodology.
  - The project was implemented from the Figma design

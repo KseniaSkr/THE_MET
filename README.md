@@ -1,5 +1,5 @@
 The MET - an HTML and CSS based landing page, fit for a company/service with a one page view.
-[Check the live demo here](https://github.com/KseniaSkr/THE_MET)
+[Check the live demo here](https://KseniaSkr.github.io/THE_MET)
 
 Features:
  - Responsive Landing Page Using HTML, CSS & JavaScript, Scss and BEM methodology.
